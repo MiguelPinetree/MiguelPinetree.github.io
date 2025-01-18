@@ -1,29 +1,52 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Privacy Policy"
 date:   2025-01-18 22:11:58 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Privacy Policy
+Effective Date: 2025/01/01
+This Privacy Policy explains how frutaFresca ("we," "us," or "our") collects, uses, and protects your information when you interact with our Pinterest account or related services. By using our Pinterest account, you agree to the practices described in this policy.
+______________
+1. Information We Collect
+We may collect the following types of information:
+•	Personal Information: Any information you voluntarily provide, such as your name, email address, or other contact details when you interact with us.
+•	Usage Data: Information about your interactions with our Pinterest content, including saves, clicks, and comments.
+______________
+2. How We Use Your Information
+We use your information for the following purposes:
+•	To improve our Pinterest content and better understand audience preferences.
+•	To respond to your inquiries, comments, or requests.
+•	To comply with legal obligations or enforce our rights.
+______________
+3. Sharing Your Information
+We do not sell your personal information. However, we may share your information in the following cases:
+•	With service providers who assist us in managing our Pinterest account.
+•	As required by law or to comply with legal processes.
+•	If we believe disclosure is necessary to protect our rights or the safety of others.
+______________
+4. Cookies and Tracking Technologies
+Pinterest may use cookies and similar technologies to collect information about your browsing activity. Please refer to Pinterest's Privacy Policy for more details on their practices.
+______________
+5. Your Rights
+Depending on your location, you may have the following rights:
+•	Access the personal information we hold about you.
+•	Request corrections to inaccurate or incomplete data.
+•	Request deletion of your personal information.
+•	Opt-out of certain data collection or processing activities.
+______________
+6. Third-Party Links
+Our Pinterest account may include links to third-party websites. We are not responsible for the privacy practices of these websites. Please review their privacy policies before sharing your information.
+______________
+7. Data Security
+We take reasonable steps to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet is completely secure.
+______________
+8. Children’s Privacy
+Our Pinterest content is not directed at children under 13. We do not knowingly collect personal information from children.
+______________
+9. Changes to This Privacy Policy
+We may update this policy from time to time. Changes will be effective upon posting to this page. Please review this policy periodically for updates.
+______________
+10. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+•	Email: privacy.frutasfrecas@proton.me
